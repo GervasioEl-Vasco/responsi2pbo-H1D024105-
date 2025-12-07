@@ -50,6 +50,4 @@ Jawab Setiap file `Pengayaan.txt` di masing-masing file pengayaan, untuk pertany
 - **Error "class X is public, should be declared in a file named X.java"**: Periksa nama file dan nama class
 - **NoClassDefFoundError**: Pastikan menjalankan dari direktori yang benar
 
----# responsi2pbo-H1D024105-
-
-
+---
