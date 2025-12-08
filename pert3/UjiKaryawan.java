@@ -1,7 +1,7 @@
 package pert3;
 class UjiKaryawan {
     public static void main(String[] args) {
-        System.out.println("=== DATA KARYAWAN TECHMAJU ===");
+        System.out.println(" DATA KARYAWAN TECHMAJU ");
         Karyawan budi = new Karyawan("Budi Santoso", 4000000.0);
         System.out.println("Status: Karyawan Biasa");
         budi.tampilInfo();

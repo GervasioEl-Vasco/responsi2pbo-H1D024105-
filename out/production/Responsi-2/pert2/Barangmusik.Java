@@ -1,5 +1,5 @@
 package pert2;
-public class BarangMusik {
+class BarangMusik {
     String kode;
     String nama;
     double harga;

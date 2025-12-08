@@ -1,5 +1,5 @@
 package pert2;
-public class UjiBarang {
+class UjiBarang {
     public static void main(String[] args) {
 
         // Buat gitar dengan constructor pertama (kode + nama)

@@ -36,7 +36,7 @@ class analisisMesin {
                 terbaik = m;
             }
         }
-        System.out.println(terbaik.namaMesin + " → " + terbaik.nilaiPerforma());
+        System.out.println(terbaik.namaMesin + " " + terbaik.nilaiPerforma());
 
         System.out.println("\nTOP 3 MESIN TERBAIK");
         for (int i = 0; i < mesin.length - 1; i++) {
@@ -48,8 +48,8 @@ class analisisMesin {
                 }
             }
         }
-        System.out.println("1. " + mesin[0].namaMesin + " → " + mesin[0].nilaiPerforma());
-        System.out.println("2. " + mesin[1].namaMesin + " → " + mesin[1].nilaiPerforma());
-        System.out.println("3. " + mesin[2].namaMesin + " → " + mesin[2].nilaiPerforma());
+        System.out.println("1. " + mesin[0].namaMesin + "  " + mesin[0].nilaiPerforma());
+        System.out.println("2. " + mesin[1].namaMesin + "  " + mesin[1].nilaiPerforma());
+        System.out.println("3. " + mesin[2].namaMesin + "  " + mesin[2].nilaiPerforma());
     }
 }
